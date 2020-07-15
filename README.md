@@ -64,3 +64,6 @@ depending on whether you downloaded any datasets. If you are running an X-server
 
 ## Contributions & Issues
 I'm working full-time as of June 2019. I don't have time to maintain this repo nor reply to issues. Sorry.
+
+Escribe carlos@cardenas.pe
+Unimauro
