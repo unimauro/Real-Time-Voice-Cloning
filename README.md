@@ -1,4 +1,4 @@
-#done
+#done for me
 #WORKS FOR ENGLISH ONLY
 #Real-Time Voice Cloning
 This repository is an implementation of [Transfer Learning from Speaker Verification to
